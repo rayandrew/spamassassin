@@ -1,0 +1,26 @@
+group 'machinelearning'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+}
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile fileTree(dir: 'lib', include: '*.jar')
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+task run(dependsOn: 'build', type: JavaExec) {
+    main = 'com.rayandrew.spamassassin.MainClass'
+    classpath = sourceSets.main.runtimeClasspath
+}
