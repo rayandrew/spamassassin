@@ -1,0 +1,33 @@
+@relation _home_ironlota_Documents_project_dataset_tester
+
+@attribute text string
+@attribute @@class@@ {clean,spam}
+
+@data
+
+'Jangan biarkan Macet&Parkir bikin kamu males menjalankan aktivitas! Ketik HAPPYWEEKEND utk disc15k/ COBAGRATISGRAB utk disc20k!Buruan dicoba!',?
+'Coba peruntunganmu di Tahun 2017 dengan mengirimkan CV ke Perusahaan2 besar yang lagi buka lowongan dengan gaji idaman! Hubungi *123*22*2# ',?
+'Ayo gabung di game Benua Naga dan jadi yang terkuat! Download di goo.gl/MisjIk dan langsung dapatkan BONUS Starter Pack setelah mendaftar. CS: 087878533920 ',?
+'Rejeki Ramadhan! Nomor Anda terpilih dpt kesempatan menang 90 Keping EMAS mingguan TANPA BIAYA dr XL! Cek skr di *123*444*1# Info: www.xl.co.id/xtravaganza ',?
+'Hayu pake kode HAPPYWEEKEND utk disc 15k tunai/ COBAGRATISGRAB utk disc 20k grabpaycredits hari ini&besok,jadikan jalan2mu di Bandung anti repot bersama GRAB!',?
+'Taukah kamu Persib Bandung ada diurutan ke-6 sbg club paling populer di Dunia? Pakai kode nya: PANGERANBIRU, dapatkan disk 30rb dg GrabPay utk naik GrabCar.',?
+'Jangan sampai ketinggalan info DISKON besar-besaran paling Terkini! Update infonya dari *123*22*8#',?
+'Pilih transportasi yg nyaman, aman & cepat? Pakai Grab utk penuhi aktivitasmu! Kode promo GrabCar: REJEKIGC (tunai) disk 15rb, GRAB40 (GrabPay) disk 40\%',?
+'Raih BONUS PULSA Rp.5000 dr Facebook Voice. Cek kode di *123*957*1#. dan update terus voice status mu. ',?
+'Update aplikasi-mu&nikmati tambahan 100\% top-up bonus dg mengisi GrabPay Credit di ATM/Minimarket!Ketik code Grab40 untuk diskon 40\% perjalananmu!',?
+'Promo GrabBike gak pake ribet, jam sibuk/tdk tetap diskon. Byr tunai diskon 50\% kode promo: DISKONSEHARIAN /GrabPay diskon 60\% kode promo: GRAB60(maks Rp10rb)',?
+'Pelanggan Yth, Jangan sampai ketinggalan info DISKON Terkini! Update infonya dari *123*22*8# ',?
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',?
+'Ayah isiin dl plsa as 20rb di no 082322481509 skrng penting',?
+'Hidup di Bandung dgn GRAB ga repot macet,parkir&bensin! KetikCodePromo HAPPYWEEKEND utk diskon 10rb& HAPPYDAY utk diskon 15rb GrabPay Credits,Coba skrg!',?
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',?
+'Eksklusif cashback s/d 8jt utk SAMSUNG S8/S8+ dgn PRIORITAS. Kunjungi PRIORITAS Center/Xplor/XL Center terdekat. Stock terbatas! Info: prioritas.xl.co.id XP056A ',?
+'Hai, ada 1 panggilan kerja buat kamu, dan Gaji idaman sedang menanti! Buruan sebelum diambil orang lain! Cek *123*22*3# ',?
+'Berkat isi ulang pulsa No.Anda Terpilih SBG Pemenang Ke-4 cek tunai Rp.75jt Dr.PT.M-KIOS PIN:(HDR7JN7) U.info:Klik. 082333344846 www.mkios846.blogspot.com',?
+'Mau ke BALI & LOMBOK GRATIS selepas puasa? Ayo Daftar M-BANKING di ATM/BANK & TRANSAKSI sebanyak2nya! Info: http://bit.ly/2p9Cm8b. s/d 30Jun WA16E ',?
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',?
+'DIJUAL XL PASANGAN NO ANDA 087720003385 HRG 100RB MINAT SERIUS BAYAR SETELAH TERIMA HUB:082301089999 PIN:26080E18 \"ABU AMMAR SHOP\"',?
+'Perusahaan2 besar buka lowongan di Tahun 2017 dengan gaji idaman! Kirim CV serta lamaran kamu melalui HP! Hubungi *123*22*2# ',?
+'Berita gembira! Penawaran hanya utk Anda: Anda bisa bersaing utk kesempatan menang uang Rp60jt TANPA BIAYA dr XL! Cek *123*444*1# Info:www.xl.co.id/xtravaganza',?
+'Traktir SMS? Cocok bgt nih buat km yg ga pelit dan suka bayarin tmn!bayarin tmn km buat SMSan sm km skrg jg! Cuma Rp.1500/3hr loh! Cepetan Akses *123*580*2*2#',?
+'Ini rekeningnya BANK BRI A/N:NITA SAFITRI NO REK:4333-0100-6822-530',?

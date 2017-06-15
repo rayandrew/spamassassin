@@ -1,0 +1,9 @@
+v.0.1 initial release
+- using j48 unpruned tree
+- using Indonesian training data set
+- using JavaFX for GUI
+- using Weka as library
+
+To do :
+- make arff converter from txt file
+- show tree in GUI

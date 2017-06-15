@@ -1,0 +1,173 @@
+@relation _home_ironlota_Documents_project_dataset
+
+@attribute text string
+@attribute @@class@@ {clean,spam}
+
+@data
+
+'Beli 2 LARGE Cup All Cocoa series hanya Rp25.000! Tukarkan SMS ini di CUPBON JATINANGOR MALL BANDUNG #Lt.3. Selama persediaan masih ada. Promo *606#',clean
+'Beli 6 Gratis 6 Donat dari CalDonat RS AWAL BROS. Tukarkan SMS ini hari ini. Selama persediaan masih ada. Promo *606#',spam
+'Mau berbagi Pulsa ke Sesama Pengguna Telkomsel? Ketik *858*NomorTujuan*NominalTransfer# lalu tunggu SMS konfirmasinya.',clean
+'Poker Online Terpercaya! Pelayanan Customer Service terbaik 24 jam penuh. Double Jackpot ratusan juta + Mega Referral 12\%.Segera Daftar ID anda di rgopoker1.com',spam
+'Isi ulang Rp5rb HARI INI dapatkan BONUS pulsa Rp5rb utk nelpon sesama Tri selama 2 hr (tidak berlaku kelipatan). Bonus diberikan tgl 6-7Des. Info123.O003',clean
+'Jual_KACAMATA Tembus Pandang\" Fungsi Dapat Melihat Tembus Semua Jenis Pakaian,Alminium,Plastik,Besi Plat Maksimal Ketebalan 3CM/Cara Order! Invite Pin. D392C8B0',spam
+'Rejeki Ramadhan! Nomor Anda terpilih dpt kesempatan menang 90 Keping EMAS mingguan TANPA BIAYA dr XL! Cek skr di *123*444*1# Info: www.xl.co.id/xtravaganza ',clean
+'Permainan Tebak Angka Berhadiah Rupiah asli?! Ditayangkan secara live 24 jam! Seru! Hanya di www.brotogel2.com & dapatkan pelayanan terbaik dari Staf situs kami',spam
+'Travelingnya happy, terbangnya aman, hotelnya nyaman karena dapat diskon AGODA 7\% + Asuransi Gratis 25 Jt! Cukup tekan *200*1*1#',clean
+'Bergabunglah di www.gitartogel8.com , situs Togel Online paling dicari saat ini, proses transaksi paling cepat dan aman, terpercaya! Sudah terbukti!',spam
+'Paket Super Murah 2 pcs c strip/1 Ayam sayap+nasi+teh pucuk Rp.15.909.Tukarkan SMS ini di CFC GRIYA PAHLAWAN hari ini!Selama persediaan masih ada.Promo *606#',clean
+'Diskon 50\% utk Kacamata Lengkap, Jl. Jend Sudirman 729 T. 6126154 +Voucher Makan ALL YOU CAN EAT, Tunjukkan SMS ini. S&K Berlaku. Promo*606#¿',spam
+'Paket Super Murah 2 pcs c strip/1 Ayam sayap+nasi+teh pucuk Rp.18.181. Tukarkan SMS ini di CFC YOGYA PAHLAWAN hari ini!Selama persediaan masih ada.Promo *606#',clean
+'PESAN RESMI Hasil pengundian berkat isi pulsa No.Anda M-dpt Hadiah dari PT.MKIOS Pin:25b47f99 U/info kunjungi www.gebyarmkios579.blogspot.co.id',spam
+'PROMO HUT EXCELSO KE-25. BUY 1 Get 1 semua minuman. Tukarkan SMS ini di EXCELSO Istana Plaza, Limited Stock. T&C Apply. Promo *606#',clean
+'Pelanggan 081572443835, Kamu dapat 1 Pesan Chat & Bonus Telp. Hubungi *858*85# untuk baca. Pesan akan dihapus dlm 5 menit. Silakan hub *858*85# skrg',spam
+'Beli 6 Gratis 6 Donut dari DUNKIN DONUTS JL. DALEM KAUM 57. Tukarkan SMS ini segera. Hanya berlaku untuk hari ini. Selama persediaan masih ada. Promo *606#',clean
+'Pelanggan 081572443835, Kamu dapat 1 Pesan Chat + BONUS Cocokin Cinta. Hubungi *606*8# untuk baca. Pesan akan dihapus dlm 5 menit. Silakan hub *606*8# skrg',spam
+'Beli 1 Gratis 1 Makanan/Minuman pilihan. Yuk! Tukarkan SMS ini langsung ke ROEMPI Coffee & Eatery JL.Anggrek No.27. RSPV:Line @Roempi_Bdg. T&C Apply. Promo*606#',clean
+'Rasa ini seluas samudra yg tak mungkin bisa ku ukur tlp aku klo kmu udah gak sibuk ke no. 08091401053 , aku tggu ya, no sex & sara , jgn lupa mkan.',spam
+'\"Geox End of Season Sale! Visit our store and Get discount up to 50\% off starting today until 31 Dec\'15. For more info: 06180510147\"',clean
+'Surat Keputusan Resmi PT.JYA simPATI Selamat No.Anda terpilih sebagai pemenang ke-4 Pin Anda (a7sh47ia) Cek pin Anda di; www.undiansimPATI-2016.blogspot.com',spam
+'Special Promo Discount 40\% Frozen Mochi Dine-in. Tukarkan SMS Hari ini juga di O\'MOCHI CAFE, Centre Point Mall Lt 3A. Selama Persediaan Masih Ada. Promo *606#',clean
+'Bahagia itu bisa Dinner bareng Laudya Cintya Bella plus bawa pulang hadiah Jutaan Rupiah! Cek di *123*369*6#',spam
+'Pkt Berdua Hemat 50\%. Sapo,Sayuran,Mie Grg,Nasi,Juice Rp 37.500/org. Tukar sms ini di SAPO ORIENTAL ISTANA PLAZA hr ini. Selama persediaan msh ada. Promo *606#',clean
+'Ini rekeningnya BANK BRI A/N:NITA SAFITRI NO REK:4333-0100-6822-530',spam
+'BUY 1 GET 1 FREE Small Oreo Blizzard dari DAIRY QUEEN! Tukarkan segera SMS ini di Dairy Queen Sun Plaza. S&K berlaku.',clean
+'SUPER MANTAP!Rangers FriedChicken Rp11,500+FREE TehGelas350ml.Tukarkan sms ini @MORConvStore terdekat sblm 30Jul\'16.Follow IG@mor_storeid.S&K Berlaku.Info *606#',spam
+'Update aplikasi-mu&nikmati tambahan 100\% top-up bonus dg mengisi GrabPay Credit di ATM/Minimarket!Ketik code Grab40 untuk diskon 40\% perjalananmu!',clean
+'Berita gembira! Penawaran hanya utk Anda: Anda bisa bersaing utk kesempatan menang uang Rp50jt TANPA BIAYA dr XL! Cek *123*444*1# Info: www.xl.co.id/xtravaganza',spam
+'Tiket ke SINGAPURA mulai dari Rp.1,435,000 hanya di SILKAIR TRAVEL FAIR @SUN PLAZA. Tnjkn sms ini di booth kami & dptkan Changi Airport Luggage Tag.S&K berlaku',clean
+'DIJUAL XL PASANGAN NO ANDA 087720003385 HRG 100RB MINAT SERIUS BAYAR SETELAH TERIMA HUB:082301089999 PIN:26080E18 \"ABU AMMAR SHOP\"',spam
+'Raih BONUS PULSA Rp.5000 dr Facebook Voice. Cek kode di *123*957*1#. dan update terus voice status mu. ',clean
+'sy M.NUR dri MALAYSIA Brencana investasikan uang sy Sbagai bekal hidup di indo,sy butuh org yg bisa sy percayakan uang sy RM 5jt,bila Bsedia,sms di 085398250171',spam
+'Khusus untuk Anda! Isi pulsa sd Rp30rb dapatkan EXTRA Rp10rb pulsa Tsel untuk 3 hari. Promo sd 14Juni17, SKB.',clean
+'Berkat isi ulang pulsa No.Anda Terpilih SBG Pemenang Ke-4 cek tunai Rp.75jt Dr.PT.M-KIOS PIN:(HDR7JN7) U.info:Klik. 082333344846 www.mkios846.blogspot.com',spam
+'Hidup di Bandung dgn GRAB ga repot macet,parkir&bensin! KetikCodePromo HAPPYWEEKEND utk diskon 10rb& HAPPYDAY utk diskon 15rb GrabPay Credits,Coba skrg!',clean
+'Rasa ini seluas samudra yg tak mungkin bisa ku ukur, tlp aku klo kamu udah gak sibuk ke no.08091401054, aku tunggu no sex & sara , jgan lupa makan ya !!',spam
+'Beli 5 pangsit goreng GRATIS 5 pangsit goreng di BAKMI GM terdekat (kecuali store Bandara&Stasiun). Tukarkan sms ini hari ini. S&K berlaku. Promo lain *606#',clean
+'Film Horror paling SERAM di Bandung! Jangan pernah cek link ini sendirian http://bit.ly/2nl1ghW',spam
+'Diskon 40\% Menu Ricebowl di Ricebowl BIP Lt.GF Telp 022-4223310.T&C.Tukarkan sms ini senin s/d jumat selama promo berlaku.Promo *606#',clean
+'PT FREEPORT INDONESIA, Membuka Lowongan Kerja Th-2016 U/ semua Posisi, Daftarkan diri Anda segera di: www.karir-ptfi.com',spam
+'Ayo gabung di game Benua Naga dan jadi yang terkuat! Download di goo.gl/MisjIk dan langsung dapatkan BONUS Starter Pack setelah mendaftar. CS: 087878533920 ',clean
+'Bosan Jadi Karyawan? Yuk Usaha Bersama RAMESIA! Diskon 5\% Tukarkan sms ini, kami hadir @Jl. Kebon Jati 22, Ruko Julian No.5 Bandung. Info & Pemesanan 1500-616',spam
+'Buy 1 Get 1 FREE cup Rujak Tiap pembelian size 800Gr di Rujak Brayan Baltos Lt. 3 Bandung. IG @RujakBrayanbandung. Segera Tunjukkan SMS ini. SKB, promo *606#',clean
+'Pelanggan 087892094788. Kamu dapat 1 Pesan Chat. Hub *123*9858# utk baca. Pesan akan dihapus dlm 5 menit. Silakan hub *123*9858# sekarang. Tanpa biaya 3G/Data.',spam
+'Share for two! Buy 1 Get 1 Free All Variant. Tukarkan segera SMS ini di outlet SHARETEA berlaku sampai 9 Mei 2017. S&K Berlaku. Promo *606#',clean
+'ikuti seminar wirausaha bisnis tour&travel dengan modal ringan sabtu 04/03 THE KASABLANKA MALL tempat terbatas daftar: nama/no hp/email/kota WA ke 08112012929',spam
+'Disc 40\% tiap beli chicken main meal 75rb di Kenny Rogers ROASTERS terdekat. Tukarkan sms ini.T&C Apply.Limited stock.Promo *606#',clean
+'',spam
+'Buy 1 Get 1 FREE all Beverages. Tukarkan SMS hari ini di EXCELSO Mayfair Lt Dasar. Promo Kemerdekaan. Limited Stock. T&C Apply. Promo *606#',clean
+'Bergabunglah di www.gitartogel8.com , Situs Togel Online paling dicari saat ini, proses transaksi paling cepat dan aman, terpercaya! Sudah terbukti!',spam
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',clean
+'Pasang CCTV untuk melindungi rumah,kantor,pabrik dan aset berharga anda lainnya. Merekam video hingga 1 BLN, dapat dipantau via HP. HUB/WA 081298288723',spam
+'Berita gembira! Penawaran hanya utk Anda: Anda bisa bersaing utk kesempatan menang uang Rp60jt TANPA BIAYA dr XL! Cek *123*444*1# Info:www.xl.co.id/xtravaganza',clean
+'sy SAENAL di MALAYSIA, brencana investasikan uang sy sbgai bekal hidup di indo,sy butuh org yg bisa sy percayakan uang sy RM 5jt,bila bsedia,sms di 082330384627',spam
+'Traktir SMS? Cocok bgt nih buat km yg ga pelit dan suka bayarin tmn!bayarin tmn km buat SMSan sm km skrg jg! Cuma Rp.1500/3hr loh! Cepetan Akses *123*580*2*2#',clean
+'Opening Celebrate @Surya Sumantri 17A, DISKON 50\% Kacamata Lengkap +Bonus Sunglass + Souvenir,Tunjukkan SMS ini di Jl.Surya Sumantri 17A.S&K Berlaku.Promo *606#',spam
+'Special Dine-in berdua Rp.40rb. 2 Nasi Urap + 2 Ayam Penyet + 2 Teh Manis di Ayam Penyet Jakarta.Tukar SMS ini Hari ini di cbg terdekat.S&K berlaku.Promo *606#',clean
+'Prtama knalan sm km biasa aja, tp stelahnya kok jd keinget km trus msh pngen ngbrol bnyak sm km, oh ya ni no ku yg bru 08091555155 tlp aq ya no sex&sara',spam
+'Merdeka to the Maxx! Rayakan Hari Kemerdekaan dengan promo Beli 2 Gratis 2 Tiket Nonton di Cinemaxx, khusus 17 Agustus 2016. Info lengkap http://bit.ly/2brsVcA',clean
+'Pelanggan 081572443835, kamu beruntung dapat download Video + BONUS Nelpon 60mnt. Hubungi *900*8# untuk ambil sekarang.',spam
+'Disc. 40\% for 1 Rice + 1/4 Roasted Chicken + Iced tea only Rp.43rb (Original price Rp.72rb).Tukarkan SMS ini di Kenny Rogers ROASTERS.Limited stock. Promo *606#',clean
+'Beli 5 pangsit goreng GRATIS 5 pangsit goreng di BAKMI GM terdekat (kecuali store Bandara&Stasiun). Tukarkan sms ini hari ini. S&K berlaku. Promo lain *606#',spam
+'Beli 1 gratis 1 SABA TERIYAKI DON khusus hari ini dgn menukarkan sms ini di RENJIRO KUU Plaza Medan Fair Lt.2 gedung baru,selama persediaan msh ada! Promo *606#',clean
+'Poker online terpercaya! Minimal Dp 25rb + Bonus cash back dan referral, gabung di www.pokerboya7.com , 2 Jacpot bernilai ratusan juta Regular & Mega jackpot.',spam
+'Dapatkan promo khusus Presotea Buy 2 Get 1 Free All Variant hanya dgn menunjukkan SMS ini di Presotea Lippo Plaza Jogja.Selama persediaan masih ada.Promo *606#',clean
+'Dijual Kartu Perdana SIMPATI LOOP 0822 44000 9904 Harga Rp 125.000,- Minat SMS Nama & Alamat Lengkap ke 085204599595,transfer setelah kartu diterima',spam
+'BELI 1 GRATIS 1 untuk jenis minuman apa saja. Tukarkan SMS hari ini di Starbucks Paskal 23 Bandung. Limited stock. Promo *606#',clean
+'Sisihkan sejenak wkt utk mengantarkan Putra/Putri di Hari Pertama Sekolah, guna mendukung pendidikannya,menunjukkan kepedulian serta kasih sayang buah hati anda',spam
+'Hi DQ Fans!Special treat for you!Gratis Oreo Blizzard setiap pembelian Oreo Blizzard Reg.Redeem This SMS at DQ Sun Plaza.S&K berlaku.Promo *606#',clean
+'Maaf kami dari PT.M-kios sudah menghubungi tapi tidak tersambung nmor anda meraih hadiah ke 2 ping:m248k81 cek /hadiah klik www.layananptmkios27.blogspot.com',spam
+'Mudik Membawa Berkah dgn Belanja di MatahariMallcom, Voucher dgn potongan sampai 1 Juta Rupiah utk beragam produk kategori. Beli Aja! http://mthr.ml/TSELMudik25',clean
+'Mau Kuliah langsung kerja? Banyak perusahaan yg kerja sama dengan Kami. siap menyalurkan lulusan untuk bekerja info lengkap cek website www.analisefek.com',spam
+'Buy 1 Get 1 to Share Baskin Robbins 1 Scoop Ice Cream khusus pengguna TCASH TAP! Di bulan Ramadan #pakeTCASH BERBAGI Gampang! SKB. Info cek tsel.me/tappromo',clean
+'Special disc 40\% beli Nasi+Bebek Sambal Matah 24rb di Bebek Dower Rest Area Km57. Tukar hari ini. Dine in only. Slma stock masih ada.Promo *606#',spam
+'Buy 1 Get 1 Ice Cream same size! Tukarkan sms ini di Cold Stone terdekat hari ini juga.T & C Apply.Limited Stock.Promo *606#',clean
+'Dapatkan saldo bermain sebesar Rp 125rb hanya dgn membayar Rp 75rb.Berlaku setiap hari di bulan Jun 17.Tukarkan SMS ini segera di Timezone terdekat! Promo *606#',spam
+'Cheeseburger & Small French Fries hanya Rp. 22.727,- Periode 12 - 18 Oktober 2016. Tukarkan SMS ini di Wendy\'s terdekat!Penawaran terbatas.Promo *606#',clean
+'Nikmati perjalanan BANDUNG BEKASI PP Hiace SUPEREXECUTIVE (8 kursi) Rp.70rb dg menunjukan sms ini hub.0812.19.19.118/0821.22.23. 24.52',spam
+'Hayu pake kode HAPPYWEEKEND utk disc 15k tunai/ COBAGRATISGRAB utk disc 20k grabpaycredits hari ini&besok,jadikan jalan2mu di Bandung anti repot bersama GRAB!',clean
+'Pinjaman_dana_cepat_BPKB_mobil Leasing_Resmi_sudah_Tbk. aman_1hari_Cair syarat_mudah Proses_1hari Bunga_0.8\% terima_Mobil_masih_kredit. hubungi 081318845858',spam
+'Jangan biarkan Macet&Parkir bikin kamu males menjalankan aktivitas! Ketik HAPPYWEEKEND utk disc15k/ COBAGRATISGRAB utk disc20k!Buruan dicoba!',clean
+'Yang minat karpet karakter bulu rasfur silahkan invet pin TOKO kami 24EC1566 Promo discount 50\% minat serius silahkan chat',spam
+'Promo Ramadhan. Dptkan diskon 25\% perawatan*) & 15\% produk*) skin & hair. Tanggal 27 Mei - 2 Juni 2017. Promo berlaku di semua cabang Natasha.Info : 08112979694',clean
+'Pelanggan 081572443835 anda dapat 1 pesan+bonus telpon, hub *323*6#. Pesan akan dihapus dalam 5 menit. Cek *323*6# skrg.',spam
+'Beli 1 gratis 1 Oreo Waffle di Le Chic Parfait Plaza Medan Fair Lt.3.Tukarkan SMS ini segera. Berlaku hari ini saja & hanya untuk makan di tempat. Promo *606#',clean
+'Kesendirianku sngat menenangkan, tp stelah melihatmu tdk ada ketenangan yg melebihi sat pesonamu membuaiku tlp aq ya ini nonya 08091555155 no sex&sara',spam
+'CFC Hemat.Ayam(sayap/paha bwh),Nasi,Teh Pucuk Rp.15.909. +Perkedel Rp.3.636.Tukarkan SMS ini di CFC SIMALINGKAR.Selama persediaan masih ada.Promo *606#',clean
+'Weekend Promo Disc 20-50\% di MAHAMERU Outdoor Gear Jl. Cihampelas 110 Bandung. Setiap Hari Jumat-Minggu sampai tanggal 19 Maret 2017. T&C Apply. Promo*606#',spam
+'Cinemaxx Birthday Bash 18-31 Agt 2016! Rayakan dgn promo Beli 3 Bayar 2 Tiket Nonton, Gratis Nonton Setahun, etc. Info lengkap di http://bit.ly/2b0He5a.',clean
+'Yg aq bs skarang cm mengagumi km dr jauh,kalo boleh sih pngn bnyak ngbrol sm km biar kita bs lebih akrab, ini noku 08091222122 tlp aq yaa no sex&sara',spam
+'Nikmati Wendy\'s Baked Potato Broccoli \'n Cheese & Minum hanya Rp.27.272,- Periode 19-25 Sept 2016. Tukarkan SMS ini di Wendy\'s! Penawaran terbatas.Promo *606#',clean
+'Nasabah YTH, harap ke kantor karena rekening tabungan anda ERROR dan harus di monitor ulang. Sebelum ke kantor harap hubungi dlu Bpk DWISANTO di 085217057878',spam
+'YEAY! Harga mulai Rp 9ribu di Blanja.com khusus pelanggan TCASH. Promo Hari Kartini 19-30 April 17. SKB. Yuk blanja di blj.co/promotcash',clean
+'Dijual KACAMATA_TEMBUS_PANDANG Fngsi dpat mlihat tembus smua jnis kain pakain & bnda pdat,sprti tripleks,logam DLL U/Info HUB:082322481569 PIN:D009D7B8',spam
+'BELI 1 GRATIS 1 untuk jenis minuman apa saja. Tukarkan SMS hari ini di Starbucks Ciumbuleuit Bandung. Limited stock. Promo *606#',clean
+'Ayah isiin dl plsa as 20rb di no 082322481509 skrng penting',spam
+'Beli 1 Gratis 1 Makanan/Minuman pilihan. Yuk! Tukarkan SMS ini langsung ke ROEMPI Coffee & Eatery JL.Anggrek No.27. RSPV:Line @Roempi_Bdg. T&C Apply. Promo*606#',clean
+'menganai harganya saya sudah merasah cocok dan setuju jadi dp tanda jadinya harus berapa dlu mho hbu:085298464537',spam
+'Roadshow Natasha Hairmate,SunPlaza Medan,7-11 Sept \'16.Free Hair Treatment*) & Disc 25\% Product*).Special perform Afgan 10 Sept\'16.Info 08112979694 /1500422',clean
+'Hanya dengan modal sebesar 25,000 rupiah di www.brotogel6.com anda sudah bisa menikmati permainan seru Togel + Live Dingdong selama 24 Jam, Tunggu apalagi?',spam
+'Dapatkan Bonus Saldo Rp.100.000,-, setiap transaksi Rp.200.000,- di Amazone Sun Plaza Lt. 4, Tukarkan sms ini segera. S&K Berlaku. Promo *606#',clean
+'Judi Casino Online terpercaya! gabung di www.wigobet3.com . Komisi referral 0,3 \% dan bonus deposit 10\%. Min dp 25rb, Mainkan di PC dan Androidmu.',spam
+'BUY 1 GET 1 SELECTED ITEM di SKATERS CIHAMPELAS Jl. Cihampelas No 155A dari tgl 22-28 Feb 2017. T&C Apply. Promo *606#',clean
+'Tak kenal maka tak sayang , makanya aq pengen bgt kenalan sm km,cuma gk berani ngomong lgsg,, km tlp aq ya , ini nomernya i08091401140 no sex dan sara .',spam
+'Diskon 40\% All Food di BASO BIP Lt.GF Telp 022-4201624.T&C.Tukarkan sms ini berlaku setiap hari selama promo berlaku.Promo*606#',clean
+'Terima kasih, Anda telah berhasil melakukan transfer pulsa sebesar Rp 5000 ke nomor 6281377221227 dengan tarif Rp 1500. Info CS: 188',spam
+'BELI 1 Medium GRATIS 1 SMALL GELATO. Tukarkan SMS ini di Lets Go Gelato Setiabudhi. Berlaku hingga 30 Juni 2017. S&K berlaku.Promo*606#',clean
+'Mencoba menepi kedalaman hatimu , tp sayangnya terlalu dingin heeemmm..tlp aku ya ke No. 08091401054 , selalu ingat no sex & sara , aku tunggu ya.',spam
+'Dapatkan saldo bermain sebesar Rp 125rb hanya dgn membayar Rp 75rb.Berlaku setiap hari di bulan Jun 17.Tukarkan SMS ini segera di Timezone terdekat! Promo *606#',clean
+'pesan resmi dari PT MOBOINDOSAT berkah isi ulang pulsa no anda m-dpt hadiah cek tunai Rp.100jt dengan pin 257f999 U/INFO KLIK www.moboindosat16.blogspot.com',spam
+'Selamat, Anda mendapatkan kuota Tsel sebesar 20Minutes. Cek kuota di *888# atau akses My Telkomsel App.',clean
+'Surat keputusan TELKOMSEL, Tgl 07-09-2016 PIN:MK577RZ menyatakan NO anda pemenang ke-4 TELKOMSEL, U/Info klik: www.pttelkomsel-tbk.blogspot.com',spam
+'Buruan aktifkan paket internet cepat Telkomsel hanya Rp8ribu dengan kuota mulai dari 500MB khusus Sabtu & Minggu. Aktifkan Paketnya di *363#.SKB',clean
+'uangnya dikirim ke rekening ini aja,BNI. a/n: RISMIN SUMINAH. No.REK: 041-367-2419. sms aja klau sdh dikirim,makasih.',spam
+'Beli 1 GRATIS 1,Beli 1 pizza Pinggiran Double Cheesy Bites,GRATIS 1 Original Reg Meaty Pizza.Tukarkan sms ini di PHD Dago.Tukar skrg!Promo *606#',clean
+'Jangan sampai ketinggalan info DISKON besar-besaran paling Terkini! Update infonya dari *123*22*8#',spam
+'THE BEST SILKY DESSERTS IS NOW IN BANDUNG! GRATIS 1 PUYO setiap pembelian 2 Silky Desserts! Tunjukkan SMS ini di Puyo Ciwalk, Lt. 1 hari ini! Promo *606#',clean
+'Info finance: DANA CEPAT SEHARI HNGGA SEMILYAR jmnan BPKB MBL/MTR- KTA hngga 250jt syrat KARTU KREDIT minat hub META 085210239772-085210239959-085710615327',spam
+'Mau ke BALI & LOMBOK GRATIS selepas puasa? Ayo Daftar M-BANKING di ATM/BANK & TRANSAKSI sebanyak2nya! Info: http://bit.ly/2p9Cm8b. s/d 30Jun WA16E ',clean
+'Maaf kami sudah menghubungi andah tapi tidak tersambung nomor andah meraih hadiah ke:2 pin anda M248K81 U/info klik di: www.program-mkios2016.blogspot.com',spam
+'Beli 6 Gratis 6 Donut dari DUNKIN GIANT SUCI JL.PHH MUSTOFA NO 7. Tukarkan SMS ini segera. Hanya berlaku untuk hari ini. Selama persediaan masih ada.Promo *606#',clean
+'Hi, adik2. Deadline pendaftaran NLC schematics tinggal bentar lagi lho. Buruan Daftar! Hadiah utamanya Free Pass Jurusan T.Informatika ITS Don\'t Miss IT!!!',spam
+'Coba peruntunganmu di Tahun 2017 dengan mengirimkan CV ke Perusahaan2 besar yang lagi buka lowongan dengan gaji idaman! Hubungi *123*22*2# ',clean
+'Pasang Parabola Venus Tahan Hujan Free Ratusan CHANNEL Tanpa biaya/blan BONUS 2TH ALL CHANNEL premium HBO,FOX MOVIE,DISCOVERY DLL Hub: 08128972497 - 08568365754',spam
+'Spesial Promo Buy 2 get 1 all DIMSUM di The Grand Duck King Cambridge City Square Lt 2. Tukarkan SMS Hari ini juga di DUCK KING. S&K Berlaku, Promo *606#',clean
+'Menawarkan produk import made in england kacamata pengintai.. bisa menembus kain,kardus,kertas yang minat invet pin BBM: 2906969A',spam
+'Dapatkan saldo bermain sebesar Rp 125rb hanya dgn membayar Rp 75rb.Berlaku setiap hari di bulan Jun 17.Tukarkan SMS ini segera di Timezone terdekat! Promo *606#',clean
+'Benarkah burung terkecil di dunia adalah Kolibri Lebah?Jwb kuisnya di *123*444*1# Menangkan 100gr emas murni & uang 60jt, GRATIS!Info: www.xl.co.id/xtravaganza',spam
+'Buy 1 large cup FREE 1 medium cup di SHINY TEA Center Point Mall Medan. Tukarkan sms ini hari ini, S&k berlaku',clean
+'',spam
+'BUY 1 GET 1 FREE Buka Puasa hari ini! Beli Ice/Hot Koftea Latte gratis minuman lainnya. Tukar SMS ini di KFC Coffee Dago Bandung. S&K Berlaku. Promo *606#',clean
+'BUY 1 GET 1 SELECTED ITEM di SKATERS CIHAMPELAS Jl. Cihampelas No 155A dari tgl 22-28 Feb 2017. T&C Apply. Promo *606#',clean
+'Paket Berdua Hemat 50\%. Sapo,Sayuran,Nasi,Juice Rp 40.000/org. Tukar sms ini di SAPO ORIENTAL ISTANA PLAZA hari ini. Selama persediaan msh ada. Promo *606#',clean
+'BUY 1 GET 1 FREE hanya hari Ini! Beli menu baru Ice/Hot Koftea Latte gratis minuman pilihan di KFC Coffee Dago Bandung. S&K Berlaku. Promo *606#',clean
+'Taukah kamu Persib Bandung ada diurutan ke-6 sbg club paling populer di Dunia? Pakai kode nya: PANGERANBIRU, dapatkan disk 30rb dg GrabPay utk naik GrabCar.',clean
+'Disc. 40\% for 1 Rice + 1/4 Roasted Chicken + Iced tea only Rp.43rb (Original price Rp.72rb).Tukarkan SMS ini di Kenny Rogers ROASTERS.Limited stock. Promo *606#',clean
+'Beli Cocoa Orange Crush Ice Blended,Get Free Green Tea Ice Blended. Tukarkan SMS ini di The Coffee Bean (Tdk berlaku di outlet bandara).S&K Berlaku.Promo *606#',clean
+'Travelingnya happy, terbangnya aman, hotelnya nyaman karena dapat diskon AGODA 7\% + Asuransi Gratis 25 Jt! Buruan ke sini http://bit.ly/AktifkanSekarang',clean
+'Buy 1 Set Meal LFC Get 1 Free LFC Garlic Sweet & Sour. Redeem this SMS today at Hot Star Paris Van Java. T&C Applies. Promo *606#',clean
+'Hai, ada 1 panggilan kerja buat kamu, dan Gaji idaman sedang menanti! Buruan sebelum diambil orang lain! Cek *123*22*3# ',clean
+'Promo GrabBike gak pake ribet, jam sibuk/tdk tetap diskon. Byr tunai diskon 50\% kode promo: DISKONSEHARIAN /GrabPay diskon 60\% kode promo: GRAB60(maks Rp10rb)',clean
+'Eksklusif cashback s/d 8jt utk SAMSUNG S8/S8+ dgn PRIORITAS. Kunjungi PRIORITAS Center/Xplor/XL Center terdekat. Stock terbatas! Info: prioritas.xl.co.id XP056A ',clean
+'Perusahaan2 besar buka lowongan di Tahun 2017 dengan gaji idaman! Kirim CV serta lamaran kamu melalui HP! Hubungi *123*22*2# ',clean
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',clean
+'Special Disc.40\% utk pembelian min.5 org. Tukarkan SMS ini di CODE BREAKER, Ruko Center Point Mall H15-16.Selama ruangan masih tersedia.S&K Berlaku.Promo *606#',clean
+'BONUS SPEKTAKULER! Dapatkan saldo Timezone senilai Rp 125,000 hanya dengan bayar Rp 75.000. Tukarkan SMS ini segera di Timezone terdekat! Promo *606#',clean
+'Weekend Promo Disc 20-50\% di MAHAMERU Outdoor Gear Jl. Cihampelas 110 Bandung. Setiap Hari Jumat-Minggu sampai tanggal 19 Maret 2017. T&C Apply. Promo*606#',clean
+'PAKET HEMAT KOMPLIT HANYA Rp.19.545. Syp/paha bwh,Perkedel,Nasi,Ades. Tukar SMS di CFC SIANTAR PLAZA. Selama persediaan msh ada. Promo *606#',clean
+'Pelanggan Yth. Beli paket nelpon ke semua operator di *888*369#. Cek informasi tariff nelpon terbaru di tsel.me/sp atau hubungi 188 (Rp300/call).',clean
+'Dapatkan Disc 20\% di McDonald\'s khusus utk pembayaran dgn TCASH TAP!Dptkan stiker TCASH TAP di graPARI terdekat. Info tsel.me/tappromo',clean
+'BELI 4 DAPAT 6 PUYO DESSERTS! Tunjukan SMS ini di Puyo Desserts AEON MALL hari ini untuk dapatkan promonya.Selama persediaan masih ada.Promo *606#',clean
+'Back to Work! Nikmati promo beli 1 dapat 2 semua jenis minuman,berlaku di semua gerai Starbucks.Tunjukan SMS ini hari ini.While stock last.T&C apply.Promo *606#¿',clean
+'Pilih transportasi yg nyaman, aman & cepat? Pakai Grab utk penuhi aktivitasmu! Kode promo GrabCar: REJEKIGC (tunai) disk 15rb, GRAB40 (GrabPay) disk 40\%',clean
+'THE BEST SILKY DESSERTS IS NOW IN BANDUNG! GRATIS 1 PUYO setiap pembelian 2 Silky Desserts! Tunjukkan SMS ini di Puyo Ciwalk, Lt. 1 hari ini! Promo *606#',clean
+'Pelanggan Yth, Jangan sampai ketinggalan info DISKON Terkini! Update infonya dari *123*22*8# ',clean
+'Buy Combo 1 Fried Chicken, Rice and Mineral Water Hanya Rp 19.000 nett di Wendy\'s terdekat.Selama persediaan masih ada.Tukarkan SMS ini! Promo lain *606#',clean
+'Semak baki, beli top-up dan Internet dgn Hotlink RED App atau dail *100# utk Easy Menu, muat turun RED App di bit.ly/RedApp1. Info lanjut di bit.ly/FASTPLAN',clean
+'Datang berdua & dapatkan diskon 50\% untuk perawatan standart bagi pasangan,sahabat,keluarga di hari Valentine 14 Feb 2017. S&K berlaku. Info:1500422',clean
+'Discount 51\% - 1 whole Roasted Chicken Rp.69rb (Original price Rp. 141rb).Tukarkan sms ini di Kenny Rogers ROASTERS.T&C Apply.Limited stock only.Promo *606#',clean
+'Shape your Body! Promo BUY 1 GET 1 untuk koleksi: Wacoal New Inshape/Everyday Inshape/Luludi Modesty Collection. Tukarkan SMS ini di House of Wacoal Terdekat',clean
+'PROMO! Nelpon 40menit ke seluruh operator seharian mulai Rp 2000 aktifkan di *999*40# di kota tertentu. Promo paket lain di *999# atau klik tsel.me/1 .SKB',clean
+'Pembelian Dave\'s Single Burger Gratis Small Fries & Minum. Periode 5-11 September 2016. Tukarkan SMS ini di Wendy\'s terdekat! Penawaran terbatas.Promo *606#',clean
+'Mau DVD/Kaos Eksklusif SYTD 2? Beli Perdana MOXPLAY hr ini di CGV PVJ. Hub. 081908258904 / cs@mox.id. Penawaran terbatas! http://bit.ly/2ktGXxe ',clean
+'Jangan biarkan POIN-mu hangus, cek *700# & tukarkan dgn Powerbank atau Souvenir lain @ Telkomsel VAGANZA @ Ringroad City Walk Lt.1 20 sd 25 Desember 2016. SKB',clean
