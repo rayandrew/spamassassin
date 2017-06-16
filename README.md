@@ -14,10 +14,10 @@ Feature :
 
 ## Screenshot
 ![MainWindow](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/mainwindow.png)
-![ChooseFile](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/choosefile.png)
 ![Tested](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/tested.png)
 ![Classifier](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/classifier.png)
 ![Train](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/train.png)
+![ChooseFile](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/choosefile.png)
 
 ### Prerequisites
 
@@ -46,57 +46,16 @@ unzip master.zip
 cd spamassassin-master
 ```
 
-### How to make arff file for dataset
-- Create new file in txt like this [99999 stands for infinite, it will block the edge creation in same node]
-
-    For reduced cost matrix :
-    ```
-        ReducedCostMatrix
-
-        5 X 5
-
-        99999 20 30 10 11
-
-        15 99999 16 4 2
-
-        3 5 99999 2 4
-
-        19 6 18 99999 3
-
-        16 4 7 16 99999
-    ```
-
-    For completed tour :
-    ```
-        CompletedTour
-
-        4 X 4
-
-        99999 12 10 5
-
-        12 99999 9 8
-
-        10 9 99999 15
-
-        5 8 15 99999
-    ```
-
-- Save as txt file in directory "./data/testcase"
-- Then, open MainClassForm.java
-- Find this code on line 82 [0 for Reduce Cost Matrix and 1 for Completed Tour]
+### Running
 ```
- [line 82] typeOfGraph.setSelectedIndex(1); // change 0 or 1
+- gradle run (if you do not want to make a jar)
+- gradle jfxJar (if you want to make a jar)
+
+Note :
+Due to path issue, you have to make sure that you run the jar file on the project root.
+This can be happened because "./dataset" folder remains in root folder of project.
 ```
-- Change this code too if you make new file in directory "./data/testcase"
-```
- [line 95]   if (typeOfGraph.getSelectedItem().equals("Reduced Cost Matrix")) {
- [line 96]        selectedFile = new File("./data/testcase/rcm_tc3.txt"); // change the path if you choose 0
- [line 97]        graphParser = new ReducedCostMatrix(selectedFile);
- [line 98]      } else {
- [line 99]        selectedFile = new File("./data/testcase/ct_tc4.txt"); // change the path if you choose 1
- [line 100]       graphParser = new CompletedTour(selectedFile);
- [line 101]  }
-```
+
 
 ## Change Log
 v.0.1 initial release
