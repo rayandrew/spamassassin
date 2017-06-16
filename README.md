@@ -28,14 +28,13 @@ Installed :
 - Java Development Kit (version > 7.0)
 - Java IDE (Intellij, Netbeans, or Eclipse)
 - Gradle
-
 ```
 
 What things you need to include in project :
 
 ```
 Libraries :
-- Weka (www.cs.waikato.ac.nz/ml/weka/) - [library for Machine Learning]
+- Weka (www.cs.waikato.ac.nz/ml/weka/) -> [library for Machine Learning]
 ```
 
 ### Installing
@@ -74,6 +73,7 @@ v.0.1 initial release
 - [Weka Text Classification for First Time & Beginner Users by Brandon Weinberg](https://www.youtube.com/watch?v=IY29uC4uem8)
 - [Text Classification with Weka using a J48 Decision Tree by S0naris](https://www.youtube.com/watch?v=HrixTPMOCD4)
 - [JFoenix](www.jfoenix.com)
+- [JavaFX Gradle Plugin](https://github.com/FibreFoX/javafx-gradle-plugin)
 
 ## Version
 
