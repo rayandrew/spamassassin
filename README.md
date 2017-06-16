@@ -1,4 +1,4 @@
-# Branch Bound
+# Spam Assassin
 
 SpamAssassin is a tool to classify spam messages or not using classifer technique in machine learning. 
 You also can add more data to train this machine learning become better to classify spam messages or not by re-evaluate the test data, and save it to train data.
@@ -13,9 +13,11 @@ Feature :
 - GUI
 
 ## Screenshot
-![Graph1](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss1.png)
-![WeightMatrix](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss2.png)
-![Graph2](https://raw.githubusercontent.com/ironlota/branchbound/master/image/ss3.png)
+![MainWindow](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/mainwindow.png)
+![ChooseFile](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/choosefile.png)
+![Tested](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/tested.png)
+![Classifier](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/classifier.png)
+![Train](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/train.png)
 
 ### Prerequisites
 
