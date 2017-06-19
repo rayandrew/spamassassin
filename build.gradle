@@ -54,7 +54,7 @@ jfx {
 
     // gradle jfxNative
     identifier = null  // String - setting this for windows-bundlers makes it possible to generate upgradeable installers (using same GUID)
-    vendor = "some serious business corp."
+    vendor = "dataFreaks"
     nativeOutputDir = "build/jfx/native"
     bundler = "ALL" // set this to some specific, if your don't want all bundlers running, examples "windows.app", "jnlp", ...
     jvmProperties = null // Map<String, String>
@@ -68,7 +68,7 @@ jfx {
             // dont bundle JRE (not recommended, but increases build-size/-speed)
             runtime: null
     ]
-    appName = "project" // this is used for files below "src/main/deploy", e.g. "src/main/deploy/windows/project.ico"
+    appName = "spam-assassin" // this is used for files below "src/main/deploy", e.g. "src/main/deploy/windows/project.ico"
     additionalBundlerResources = null // path to some additional resources for the bundlers when creating application-bundle
     additionalAppResources = null // path to some additional resources when creating application-bundle
     secondaryLaunchers = [[appName:"somethingDifferent"], [appName:"somethingDifferent2"]]
