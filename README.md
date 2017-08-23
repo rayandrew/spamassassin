@@ -13,11 +13,11 @@ Feature :
 - GUI
 
 ## Screenshot
-![MainWindow](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/mainwindow.png)
-![Tested](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/tested.png)
-![Classifier](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/classifier.png)
-![Train](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/train.png)
-![ChooseFile](https://raw.githubusercontent.com/ironlota/spamassassin/master/image/choosefile.png)
+![MainWindow](https://raw.githubusercontent.com/rayandrews/spamassassin/master/image/mainwindow.png)
+![Tested](https://raw.githubusercontent.com/rayandrews/spamassassin/master/image/tested.png)
+![Classifier](https://raw.githubusercontent.com/rayandrews/spamassassin/master/image/classifier.png)
+![Train](https://raw.githubusercontent.com/rayandrews/spamassassin/master/image/train.png)
+![ChooseFile](https://raw.githubusercontent.com/rayandrews/spamassassin/master/image/choosefile.png)
 
 ### Prerequisites
 
@@ -40,7 +40,7 @@ Libraries :
 ### Installing
 
 ```
-wget [https://github.com/ironlota/spamassassin/archive/master.zip](https://github.com/ironlota/spamassassin/archive/master.zip)
+wget [https://github.com/rayandrews/spamassassin/archive/master.zip](https://github.com/rayandrews/spamassassin/archive/master.zip)
 unzip master.zip
 cd spamassassin-master
 ```
@@ -81,7 +81,7 @@ v.0.1 initial release
 
 ## Authors
 
-* **Ray Andrew** - [Ironlota](https://github.com/ironlota)
+* **Ray Andrew** - [Ray Andrew](https://github.com/rayandrews)
 
 ## License
 
